@@ -3,3 +3,5 @@ console.log(items);
 
 const input = document.querySelector(".search__form-input");
 console.log(input);
+
+const subtitle = document.querySelector(".subtitle");
